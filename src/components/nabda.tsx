@@ -1,5 +1,5 @@
 import "../styles/nabda.css";
-import { Link } from "react-router";
+
 
 export default function Nabda() {
   return (
@@ -85,7 +85,7 @@ adaptées à différents niveaux.</p>
 
 
     <div className="container-6" >
-        <img className="img-6" src="/img/nabda-img\entity-5jrex4-69fc93b135f8d.jpeg" 
+        <img className="img-6" src="/img/nabda-img/entity-5jrex4-69fc93b135f8d.jpeg" 
   alt="Campus Ynov" />
     <h1 id="Title-4">Nos spécialisations</h1>
     <h2 className="Title-5">Arts martiaux</h2>
