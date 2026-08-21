@@ -38,16 +38,33 @@ h1{
     padding-bottom: 10PX;
 }
 
-#paragraph {
+.Paragraph {
     
-   text-align: center;
+    text-align: center;
     color: black;
-
-    box-shadow: 20PX 1PX 20px  rgb(13, 157, 201) ;
     font-size: 30PX;
+    Display: flex;
+    float: inline-start;
 
 
 
+
+
+}
+
+.link-D{
+
+    text-align: left;
+    text-decoration: none;
+    color: rgb(205, 243, 255);
+    font-size: 50PX;
+    margin-left: 10PX;
+    margin-right: 10PX;
+    padding-top: 5PX;
+    padding-bottom: 5PX;
+    float: inline-end;
+    Display: inline-flex;
+    Text-decoration: underline;
 }
 
 
