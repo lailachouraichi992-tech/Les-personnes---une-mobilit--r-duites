@@ -17,6 +17,8 @@ import Deambulateur from "./components/deambulateur";
 import Levepersonne from "./components/levepersonne";
 import Cannedemarche from "./components/cannedemarche";
 import Rampedacces from "./components/rampedacces";
+import Nabda from "./components/nabda";
+
 
 function RoutesApp() {
   return (
@@ -38,6 +40,8 @@ function RoutesApp() {
       <Route path="/levepersonne" element={<Levepersonne />} />
       <Route path="/cannedemarche" element={<Cannedemarche />} />
       <Route path="/rampedacces" element={<Rampedacces />} />
+      <Route path="/nabda" element={<Nabda />} />
+
     </Routes>
   );
 }
