@@ -1,0 +1,168 @@
+#Container{
+
+    background-color: rgb(196, 192, 192);
+    border: rgb(48, 109, 134) dotted 4PX;
+    box-shadow: rgb(13, 157, 201) 10PX 30PX;
+    width:1340PX ;
+    height: 2000PX;
+}
+
+
+
+
+h1{
+    box-shadow: gray 70PX 30PX ;
+    display: inline-flex;
+    font-size: 40PX;
+    text-align: center;
+    margin-left: 300PX;
+    margin-top: 90PX;
+
+}
+
+
+
+
+
+
+
+.home {
+    
+    font-size: 50px;
+    margin-top: 10px;
+    font-size: 50px;
+    color: wheat;
+    margin-bottom: 5PX;
+    border-radius: 30PX 30PX ;
+    padding-top: 10PX;
+    padding-bottom: 10PX;
+}
+
+.Paragraph {
+    
+    text-align: center;
+    color: black;
+    font-size: 30PX;
+    Display: flex;
+    float: inline-start;
+
+
+
+
+
+}
+
+.link-D{
+
+    text-align: left;
+    text-decoration: none;
+    color: rgb(205, 243, 255);
+    font-size: 50PX;
+    margin-left: 10PX;
+    margin-right: 10PX;
+    padding-top: 5PX;
+    padding-bottom: 5PX;
+    float: inline-end;
+    Display: inline-flex;
+    Text-decoration: underline;
+}
+
+
+.container-A{
+
+    background-color:rgb(205, 243, 255);
+    border-radius: 90PX 0PX 80PX 90PX;
+    width: 400PX;
+    height: 390PX;
+    margin-top: 200PX;
+    float: inline-start;
+    margin-left: 200PX;
+
+
+
+
+}
+
+
+
+.container-B{
+
+    
+    background-color:rgb(114, 143, 171);
+    border-radius: 90PX 0PX 80PX 90PX;
+    width: 400PX;
+    height: 390PX;
+    margin-top: 200PX;
+    float: inline-start;
+    margin-left: 200PX;
+
+
+}
+
+
+
+.container-C{
+
+     background-color:rgb(205, 243, 255);
+    border-radius: 90PX 0PX 80PX 90PX;
+    width: 400PX;
+    height: 390PX;
+    margin-top: 200PX;
+    float: inline-start;
+    margin-left: 200PX;
+
+    
+
+   
+
+
+}
+
+
+
+.container-D{
+
+    
+    background-color:rgb(114, 143, 171);
+    border-radius: 90PX 0PX 80PX 90PX;
+    width: 400PX;
+    height: 390PX;
+    margin-top: 200PX;
+    float: inline-start;
+    margin-left: 200PX;
+
+
+
+}
+
+
+
+.container-E{
+
+     background-color:rgb(205, 243, 255);
+    border-radius: 90PX 0PX 80PX 90PX;
+    width: 400PX;
+    height: 390PX;
+    margin-top: 200PX;
+    float: inline-start;
+    margin-left: 500PX;
+
+
+   
+
+}
+
+
+
+
+#img{
+    
+    width: 280PX;
+    height: 200PX;
+    border-radius: 20px  130PX 30PX 70PX;
+    margin-top: 10PX;
+    margin-left: 90PX;
+}
+
+
+

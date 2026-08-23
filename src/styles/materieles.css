@@ -57,6 +57,7 @@
 #P-13{
         
     text-align: center;
+    margin-top: 20PX;
     font-size: 20PX;
     color:  black;
     padding-top: 10PX;
@@ -91,7 +92,7 @@
   
     width: 200PX;
     height: 900PX;
-    border: solid  rgb(31, 72, 114) 3PX ;
+    border: solid wheat 5PX ;
     border-radius: 50%;
     margin-top: 60PX;
     margin-right: 60PX;
@@ -114,7 +115,7 @@
     
     width: 200PX;
     height: 900PX;
-    border: solid  rgb(31, 72, 114) 3PX ;
+    border: solid wheat 5PX;
     border-radius: 50%;  
     margin-top: 60PX;
     margin-right: 60PX;
@@ -133,7 +134,7 @@
     
     width: 200PX;
     height: 900PX;
-    border: solid  rgb(31, 72, 114) 3PX ;
+    border: solid wheat 5PX ;
     border-radius: 50%;
     margin-top: 60PX;
     margin-right: 60PX;
@@ -152,7 +153,7 @@
 #img-sqr-4{
  width: 200PX;
     height: 900PX;
-    border: solid  rgb(31, 72, 114) 3PX ;
+    border: solid wheat 5PX ;
     border-radius: 50%;
     margin-top: 60PX;
     margin-right: 60PX;
@@ -170,7 +171,7 @@
  
     width: 200PX;
     height: 200PX;
-    border: solid  rgb(31, 72, 114) 3PX ;
+    border: solid wheat 5PX ;
     border-radius: 50%;
     margin-top: 60PX;
     margin-right: 60PX;
@@ -188,7 +189,7 @@
     
     width: 200PX;
     height: 200PX;
-    border: solid  rgb(31, 72, 114) 3PX ;
+    border: solid wheat 5PX ;
     border-radius: 50%;
     margin-top: 60PX;
     margin-right: 60PX;
@@ -212,7 +213,7 @@
     margin: 40PX;
     margin-left: 90PX;
     margin-top: 200PX;
-    border: black solid 3PX;
+    border: blue solid 2PX;
 
 
 
@@ -221,14 +222,14 @@
 
 #squiere-B{
       
-    width: 300px ;
-    height:  400px;   
-    background-color:rgb(205, 243, 255);
+    width: 300PX ;
+    height:  400PX;   
+    background-color:rgb(13, 157, 201);
     border-radius: 50PX 60PX;
     display: inline-block;
     margin-left: 130PX;
     margin-top: 200PX;
-    border: black solid 3PX;
+    border:wheat solid 2PX;
 
 
 }
@@ -248,7 +249,7 @@
     margin: 40PX;
     margin-left: 150PX;
     margin-top: 200PX;
-    border: black solid 3PX;
+    border: wheat solid 2PX;
 
 
 
@@ -266,7 +267,7 @@
     margin: 40PX;
     margin-left: 120PX;
     margin-top: 200PX;
-    border: black solid 3PX;
+    border: wheat solid 2PX;
 
 
 }
@@ -280,7 +281,7 @@ height:  400PX;
 border-radius: 50PX 60PX;
 display: inline-block;
 margin-right: 800PX;
-    border: black solid 3PX;
+border: black solid 2PX;
  margin-top: 200PX;
 
 
@@ -297,7 +298,7 @@ margin-right: 800PX;
     margin: 40PX;
     margin-left: 150PX;
     margin-top: 200PX;
-    border: black solid 3PX;
+    border: wheat solid 2PX;
 
 
 
@@ -314,7 +315,7 @@ height:  400PX;
 border-radius: 50PX 60PX;
 display: inline-block;
     margin-top: 200PX;
-    border: black solid 3PX;
+border: black solid 2PX;
 
     margin-right: 80PX;
     float: right;

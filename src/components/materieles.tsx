@@ -13,7 +13,7 @@ export default function Materieles() {
             <div id="squiere-1">
 
 
- <img id= "img-last" src="/img/materiels-pour-les-hadicapes/unnamed.jpg" alt="home image1" />
+ <img  id= "img-last" src="/img/materiels pour les hadicapes/unnamed.jpg" alt="home image1" />
 
 <h6  id="h-13"> Les matériels pour les handicapés  </h6>
 
@@ -32,7 +32,7 @@ export default function Materieles() {
     <div id="squiere-A">
 
 
-     <img id="img-sqr-1"src="vite-project\public\img\materiels-pour-les-hadicapes\71yxNquXG8L._AC_SL400_.jpg" alt="home image1" />
+     <img id="img-sqr-1"src="/img/materiels pour les hadicapes/Wheelchairs.png" alt="home image1" />
 
         
   <Link className="lien" to="/Fauteuilroulantelectrique" > Fauteuilroulantelectrique </Link>
@@ -43,20 +43,26 @@ export default function Materieles() {
 
 
             <div id="squiere-B">
- <img  id= "img-sqr-2" src="vite-project\public\img\materiels-pour-les-hadicapes\71-5P8iq9FL._AC_SL1500_.jpg" alt="home image1" />
 
- 
+ <img id="img-sqr-2" src="/img/materiels pour les hadicapes/FS958LBCGPY-38-1.jpg" alt="home image1" />
 
 
-  <Link className="lien" to="/fauteuilroulant" > Fauteuil-Roulant  </Link>
+  <Link className="lien" to="/Fauteuilroulant" > Fauteuil-Roulant  </Link>
+
+
+
+
 
 
             </div>
 
+
+
+
             <div className="squiere-C">
 
 
-<img id="img-sqr-3" src="vite-project\public\img\materiels-pour-les-hadicapes\rambarde-exterieur.webp" alt="home image1" />
+<img id="img-sqr-3" src="/img/materiels pour les hadicapes/escaliers-avec-des-cannes-anglaises.jpg" alt="home image1" />
 
 
       <Link className="lien" to="/Cannedemarche" > Canne-de-marche  </Link>
@@ -75,7 +81,7 @@ export default function Materieles() {
             <div  id="squiere-D">
 
 
-    <img id="img-sqr-4" src="vite-project\public\img\materiels-pour-les-hadicapes\Leve-personne-SUNLITT-MAJOR-175.jpg" alt="home image1" />
+    <img id="img-sqr-4" src="/img/materiels pour les hadicapes/leve-personne.jpg" alt="home image1" />
 
         
 
@@ -93,7 +99,7 @@ export default function Materieles() {
             <div id="squiere-E">
 
 
-        <img id="img-sqr-5" src="/img/materiels-pour-les-hadicapes/Rollator-en-aluminium.jpg" alt="home image1" />
+        <img id="img-sqr-5" src="/img/materiels pour les hadicapes/grillo-g2-photo-avec-personne.jpg" alt="home image1" />
 
         <Link className="lien" to="/Deambulateur" > Deambulateur  </Link>
 
@@ -105,7 +111,7 @@ export default function Materieles() {
     <div id ="squiere-F">
                 
         <img id="img-sqr-6"
-        src="vite-project\public\img\materiels-pour-les-hadicapes\rampe-d-acces-pliable-en-aluminium.webp" 
+        src="/img/materiels pour les hadicapes/rampe-double-pliante-ouverte-scaled-1.jpg" 
         alt="Aloeverastabilisée image1" />
 
 

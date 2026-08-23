@@ -26,7 +26,7 @@ export default function Services(){
   <div className="container-B">
 
         <p className="Paragraph"> Services_Travail </p>
-        <img id="img"src="/img/image des services/istockphoto-1483052139-612x612.jpg" alt="" />
+        <img  id="img"src="/img/image des services/istockphoto-1483052139-612x612.jpg" alt="" />
 
     </div>
 
@@ -44,8 +44,8 @@ export default function Services(){
  <link rel="stylesheet" href="http://localhost:5173/src/styles/services.css" />
 
         <p className="Paragraph"> Services_Sport </p>
-        <Link className="link-D" to="/Nabda"> Nabhda </Link> <br /> <br />
-        <img id="img"src="/img/nabda-img/b6c49f1f059ecf44f10de2b639be0a6a.jpg" alt="Services_Sport" />
+        <Link className="link-D" to="/Nabda"> Nabda </Link> <br /> <br />
+        <img id="img"src="/img/images des hadicapes/1b1be62b3a4ee08227435e656e11e254.webp" alt="" />
 
 
     </div>
