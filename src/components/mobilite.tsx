@@ -11,22 +11,22 @@ export default function Mobilite(){
         <>  
          
         
-     <h1 className="titre-1"> Droit-à-la-mobilité </h1>
+     <h1 id="titre-1"> Nos-droits-à-la-mobilité </h1>
         
-    <div className="continer-1">
+    <div id="continer-1">
 
-   <p className="Second-paragraph">Qu’est-ce que le droit à la mobilité ? </p>
+   <p id="Second-paragraph">Qu’est-ce que le droit à la mobilité ? </p>
         <p id="Last-paragraph">Le droit à la mobilité signifie que les personnes en situation de handicap doivent pouvoir : <br />
                 Se déplacer librement et en sécurité <br />
                 Accéder aux transports publics<br />
                Utiliser les espaces publics sans obstacle</p>
         
-        <img  className="img" src="/img/image des services/disability-kids-school-educational-projects-260nw-2036936300.webp" alt=""/>
+        <img  className="img" src="" alt="/img/materiels-pour-les-hadicapes/grillo-g2-photo-avec-personne.jpg"/>
     
     </div>
 
 
-    <div  className="continer-2">
+    <div id="continer-2">
 
 
    <p className="Second-paragraph">Mesures mises en place au Maroc </p>
@@ -34,12 +34,11 @@ export default function Mobilite(){
                 Installation de rampes d’accès dans certains bâtiments publics <br />
                Adaptation progressive des transports urbains (bus, tramway dans certaines grandes villes)<br />
                Programmes de sensibilisation à l’accessibilité</p>
-                <img  className="img"src="/img/image des services/rampe-d-handicap-menant-à-la-piscine-6106018 (1).webp" alt="" />
+                <img  className="img"src="/img/materiels-pour-les-hadicapes/grillo-g2-photo-avec-personne.jpg" alt="" />
 
     </div>
 
-
-    <div className="continer-3">
+    <div id="continer-3">
 
 
    <p className="Second-paragraph"> Les défis </p>
@@ -47,12 +46,12 @@ export default function Mobilite(){
                 Trottoirs et voiries non adaptés <br />
                Manque d’ascenseurs et de signalisation adaptée<br />
                Insuffisance de transports accessibles, surtout en milieu rural</p>
-                    <img className="img" src="/img/image des services\Lokomat.jpg" alt="" />
+                    <img className="img" src="/img/materiels-pour-les-hadicapes/grillo-g2-photo-avec-personne.jpg" alt="" />
 
     </div>
 
 
-    <div  className="continer-4">
+    <div id="continer-4">
 
 
    <p className="Second-paragraph">Importance du droit à la mobilité </p>
@@ -60,7 +59,7 @@ export default function Mobilite(){
                 L’accès à l’éducation <br />
                 L’accès à l’emploi<br />
               L’accès aux soins</p>
-                <img  className="img"src="/img/image des services/istockphoto-1483052139-612x612.jpg" alt="" />
+                <img  className="img"src="/img/materiels-pour-les-hadicapes/grillo-g2-photo-avec-personne.jpg" alt="" />
 
     </div>
        
