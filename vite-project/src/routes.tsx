@@ -6,7 +6,7 @@ import Materieles from "./components/materieles";
 import Droits from "./components/droits";
 import Services from "./components/services";
 import Education from "./components/education";
-import Sport from "./components/sport";
+import Sportl from "./components/sportl";
 import Travail from "./components/travail";
 import Natation from "./components/natation";
 import Mobilite from "./components/mobilite";
@@ -30,7 +30,7 @@ function RoutesApp() {
       <Route path="/droits" element={<Droits />} />
       <Route path="/services" element={<Services />} />
       <Route path="/education" element={<Education />} />
-      <Route path="/sport" element={<Sport />} />
+      <Route path="/sportl" element={<Sportl />} />
       <Route path="/travail" element={<Travail />} />
       <Route path="/natation" element={<Natation />} />
       <Route path="/mobilite" element={<Mobilite />} />

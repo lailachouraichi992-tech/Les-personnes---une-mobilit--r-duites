@@ -1,7 +1,7 @@
-import '../styles/sport.css'
+import '../styles/sportl.css'
 
 
-export default function Sport(){
+export default function Sportl(){
     
 
     
@@ -21,7 +21,7 @@ export default function Sport(){
                 La réadaptation physique <br />
                 Le soutien psychologique</p>
 
-        <img  className="img" src="/img/image des services/Lokomat.jpg" alt=""/>
+        <img  className="img" src="" alt=""/>
     
     </div>
 
@@ -34,7 +34,7 @@ export default function Sport(){
             Coût élevé des services et des équipements<br />
             Manque de professionnels spécialisés</p>
 
-        <img className="img"src="/img/images des hadicapes/les-seniors-et-le-sport-pour-personnes-handicapees.jpg" alt="" />
+        <img className="img"src="" alt="" />
 
     </div>
 
@@ -46,7 +46,7 @@ export default function Sport(){
             Les centres médico-sociaux <br />
             Les associations spécialisées</p>
 
-            <img className="img" src="/img/images des hadicapes/Sportif-en-situation-de-handicap-e1654180068170-1568x1045.webp" alt="" />
+            <img className="img" src="" alt="" />
 
     </div>
 
@@ -59,7 +59,7 @@ export default function Sport(){
         L’autonomie <br />
         L’intégration scolaire et professionnelle</p>
 
-        <img className="img"src= "/img/images des hadicapes/chaque-client-suit-un-entrainement-meticuleusement-construit-avec-les-coachs-et-sous-reserve-de-recommandations-medicales-pour-pouvoir-profiter-d-une-activite-physique-en-toute-securite-photo-ali.jpg" alt="" />
+        <img className="img"src="" alt="" />
 
     </div>
        
