@@ -8,7 +8,7 @@ export default function Nabda() {
 
 
     {/* container-1  */}
-    <img className="container-8" src="/img/nabda-img/logonabda.webp" 
+    <img className="container-8" src="/img/nabda-img/b6c49f1f059ecf44f10de2b639be0a6a.jpg" 
   alt="Nabda" />
  <div className="container-1">
  
@@ -59,7 +59,7 @@ export default function Nabda() {
      {/* container-4 */}
 
     
-    <div className="container-4" >
+    <div className="container-4">
     <h1 id="Title-5">Vous êtes passionné de sport ? Évoluez avec le Club NABDA</h1>
     <p id="Info-5">Découvrez des activités sportives adaptées à vos envies et à votre niveau.
          Développez votre forme physique, votre esprit d’équipe et vos talents à travers le football,
@@ -69,8 +69,8 @@ export default function Nabda() {
 
     {/* container-5  */}
 
-    <div className="container-5" >
-        <img className="img-5" src="/img/nabda-img/entity-5jrex4-69fc93b135f8d.jpeg" 
+    <div className="container-5">
+        <img className="img-5" src="/img/nabda-img/entity-CaGhWr-69fc93b085c46.jpeg" 
   alt="Campus Ynov" />
     <h1 id="Title-1">Nos spécialisations</h1>
     <h2 id="Title-2">Fitness</h2>
@@ -84,8 +84,8 @@ adaptées à différents niveaux.</p>
     {/* container-6  */}
 
 
-    <div className="container-6" >
-        <img className="img-6" src="/img/nabda-img/entity-5jrex4-69fc93b135f8d.jpeg" 
+    <div className="container-6">
+        <img className="img-6" src="/img/nabda-img/entity-CaGhWr-69fc93b085c46.jpeg" 
   alt="Campus Ynov" />
     <h1 id="Title-4">Nos spécialisations</h1>
     <h2 className="Title-5">Arts martiaux</h2>
@@ -100,7 +100,7 @@ sur le respect et la persévérance.</p>
     {/* container-7  */}
 
     
-    <div className="container-7" >
+    <div className="container-7">
         <img className="img-7" src="/img/nabda-img/entity-CaGhWr-69fc93b085c46.jpeg" 
   alt="Campus Ynov" />
     <h1  className="Title-7">Nos spécialisations</h1>
@@ -113,15 +113,15 @@ aux jeunes et aux passionnés de sport.</p>
    
     </div>
    
-       <div className="container-12" >
+       <div className="container-12">
 
 
   <h1 id="Titre">Découvrire Les activitée de Nabda Fondation</h1>
    
     {/* container-8  */}
-    <div className="container-10" >
+    <div className="container-10">
 <div>
- <img className="img-10" src="/img/nabda-img/nabda-club-salle-de-sport-casablanca-1566.jpg" 
+ <img className="img-10" src="/img/nabda-img/nabda-club-salle-de-sport-casablanca-1573.jpg" 
   alt="Campus Ynov" />
         <div className="box-10" >
 
@@ -137,10 +137,10 @@ Organisation de tournois sportifs</p>
      
         </div>
 
-      <div className="container-10" >
+      <div className="container-10">
 
  <div>
-    <img className="img-10" src="/img/nabda-img/nabda-club-salle-de-sport-casablanca-1573.jpg" 
+    <img className="img-10" src="/img/nabda-img/nabda-club-salle-de-sport-casablanca-1566.jpg" 
   alt="Campus Ynov" />
       <div className="box-10" >
 
@@ -174,7 +174,7 @@ Respiration <br />
     <div className="container-10" >
 
       <div>
-   <img className="img-10" src="/img/nabda-img/nabda-club-salle-de-sport-casablanca-1573.jpg" 
+   <img className="img-10" src="/img/nabda-img/nabda-club-salle-de-sport-casablanca-1574.jpg" 
   alt="Campus Ynov" />
 
       <div className="box-10" >
