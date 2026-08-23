@@ -1,7 +1,7 @@
-import '../styles/sportl.css'
+import '../styles/sport.css'
 
 
-export default function Sportl(){
+export default function Sport(){
     
 
     
