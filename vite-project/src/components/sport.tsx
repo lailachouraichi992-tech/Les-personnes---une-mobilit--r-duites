@@ -1,7 +1,7 @@
-import '../styles/sportl.css'
+import '../styles/sport.css'
 
 
-export default function Sportl(){
+export default function Sport(){
     
 
     
@@ -11,17 +11,16 @@ export default function Sportl(){
         <>  
          
         
-     <h1 id="titre-1"> Nos-droits-au-Sport </h1>
+     <h1 id="titre-1"> Nos </h1>
         
     <div id="continer-1">
 
-        <p id="Second-paragraph">Qu’est-ce que la rééducation</p>
-        <p className="Last-paragraph">La rééducation comprend : <br />
-                La rééducation fonctionnelle (kinésithérapie, orthophonie, ergothérapie) <br />
-                La réadaptation physique <br />
+        <p id="Second-paragraph">la rééducation</p>
+        <p className="Last-paragraph">La rééducation comprend <br />
+            <br />
                 Le soutien psychologique</p>
 
-        <img  className="img" src="" alt=""/>
+        <img className="img"src="/chaque-client-suit-un-entrainement-meticuleusement-construit-avec-les-coachs-et-sous-reserve-de-recommandations-medicales-pour-pouvoir-profiter-d-une-activite-physique-en-toute-securite-photo-ali.jpg" alt="" />
     
     </div>
 
@@ -34,7 +33,7 @@ export default function Sportl(){
             Coût élevé des services et des équipements<br />
             Manque de professionnels spécialisés</p>
 
-        <img className="img"src="" alt="" />
+        <img className="img"src="/img/images_des_hadicapes/chaque-client-suit-un-entrainement-meticuleusement-construit-avec-les-coachs-et-sous-reserve-de-recommandations-medicales-pour-pouvoir-profiter-d-une-activite-physique-en-toute-securite-photo-ali.jpg" alt="" />
 
     </div>
 
@@ -46,7 +45,7 @@ export default function Sportl(){
             Les centres médico-sociaux <br />
             Les associations spécialisées</p>
 
-            <img className="img" src="" alt="" />
+        <img className="img"src="/img/images_des_hadicapes/chaque-client-suit-un-entrainement-meticuleusement-construit-avec-les-coachs-et-sous-reserve-de-recommandations-medicales-pour-pouvoir-profiter-d-une-activite-physique-en-toute-securite-photo-ali.jpg" alt="" />
 
     </div>
 
@@ -59,7 +58,7 @@ export default function Sportl(){
         L’autonomie <br />
         L’intégration scolaire et professionnelle</p>
 
-        <img className="img"src="" alt="" />
+        <img className="img"src="/img/images_des_hadicapes/chaque-client-suit-un-entrainement-meticuleusement-construit-avec-les-coachs-et-sous-reserve-de-recommandations-medicales-pour-pouvoir-profiter-d-une-activite-physique-en-toute-securite-photo-ali.jpg" alt="" />
 
     </div>
        

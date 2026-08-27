@@ -21,7 +21,7 @@ export default function Natation(){
                 Un moyen de rééducation physique<br />
                 Un outil d’intégration sociale</p>
         
-        <img  className="img" src="/img/images des hadicapes/bienfait-natation.jpg" alt=""/>
+        <img  className="img" src="/img/images-des-services/rampe-d-handicap-menant-à-la-piscine-6106018 (1).webp" alt=""/>
     
     </div>
 
@@ -33,7 +33,7 @@ export default function Natation(){
             Les clubs sportifs spécialisés <br />
             Les associations œuvrant pour le sport inclusif <br />
             La participation aux compétitions paralympiques</p>
-        <img  className="img"src="/img/image des services/rampe-d-handicap-menant-à-la-piscine-6106018 (1).webp" alt="" />
+        <img  className="img"src="/img/images-des-services/rampe-d-handicap-menant-à-la-piscine-6106018 (1).webp" alt="" />
 
     </div>
 
@@ -45,7 +45,7 @@ export default function Natation(){
                 Manque de piscines accessibles (rampe, vestiaires adaptés) <br />
                 Faible nombre d’entraîneurs spécialisés<br />
                 Coût des activités sportives</p>
-    <img className="img" src="/img/images des hadicapes/IMG_4563-1280x640.jpg" alt="" />
+    <img className="img" src="/img/images-des-services/rampe-d-handicap-menant-à-la-piscine-6106018 (1).webp" alt="" />
 
     </div>
 
@@ -57,7 +57,7 @@ export default function Natation(){
                 L’amélioration de la santé physique <br />
                 Le développement des capacités motrices<br />
                 L’inclusion sociale</p>
-        <img className="img"src="/img/images des hadicapes/LAGO Mons personnes mobilite reduite.jpg.webp" alt="" />
+        <img className="img"src="/img/images-des-services/rampe-d-handicap-menant-à-la-piscine-6106018 (1).webp" alt="" />
 
     </div>
        

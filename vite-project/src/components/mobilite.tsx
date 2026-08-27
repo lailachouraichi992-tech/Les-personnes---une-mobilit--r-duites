@@ -21,7 +21,7 @@ export default function Mobilite(){
                 Accéder aux transports publics<br />
                Utiliser les espaces publics sans obstacle</p>
         
-        <img  className="img" src="/img/image des services/Lokomat.jpg" alt=""/>
+        <img  className="img" src="" alt="/img/materiels-pour-les-hadicapes/grillo-g2-photo-avec-personne.jpg"/>
     
     </div>
 
@@ -34,7 +34,7 @@ export default function Mobilite(){
                 Installation de rampes d’accès dans certains bâtiments publics <br />
                Adaptation progressive des transports urbains (bus, tramway dans certaines grandes villes)<br />
                Programmes de sensibilisation à l’accessibilité</p>
-                <img  className="img"src="/img/materiels pour les hadicapes/rollator-dynamico-dinterieur-pour-enfant-6-a-8-ans.jpg" alt="" />
+                <img  className="img"src="/img/materiels-pour-les-hadicapes/grillo-g2-photo-avec-personne.jpg" alt="" />
 
     </div>
 
@@ -46,7 +46,7 @@ export default function Mobilite(){
                 Trottoirs et voiries non adaptés <br />
                Manque d’ascenseurs et de signalisation adaptée<br />
                Insuffisance de transports accessibles, surtout en milieu rural</p>
-                    <img className="img" src="/img/materiels pour les hadicapes/Anti-fall-Height-Adjustable-Elderly-Mobility-Training-Walker-Aid-Stand-up-Gait-Rehabilitation-Therapy-Equipment-for-Disabled.jpg_300x300.avif" alt="" />
+                    <img className="img" src="/img/materiels-pour-les-hadicapes/grillo-g2-photo-avec-personne.jpg" alt="" />
 
     </div>
 
@@ -59,7 +59,7 @@ export default function Mobilite(){
                 L’accès à l’éducation <br />
                 L’accès à l’emploi<br />
               L’accès aux soins</p>
-                <img  className="img"src="/img/materiels pour les hadicapes/unnamed.jpg" alt="" />
+                <img  className="img"src="/img/materiels-pour-les-hadicapes/grillo-g2-photo-avec-personne.jpg" alt="" />
 
     </div>
        

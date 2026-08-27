@@ -31,11 +31,11 @@ export default function Cannedemarche() {
 
                 <img id="img-1"
 
-                    src="img/materiels pour les hadicapes/escaliers-avec-des-cannes-anglaises.jpg" alt="home image1" />
+src="vite-project\public\img\materiels-pour-les-hadicapes\grillo-g2-photo-avec-personne.jpg" alt="home image1" />
 
         
 
-                 <h3 className="h-41">prix : 600 DH </h3>  
+                 <h3 className="h-41">prix : 2800 DH </h3>  
                  
 
 

@@ -20,7 +20,7 @@ export default function Travail(){
        Elle vise à protéger les droits des personnes en situation de handicap, y compris le droit à l’emploi et à l’insertion professionnelle.</p>
 
 
-        <img  className="img" src="/img/image des services/istockphoto-1483052139-612x612.jpg" alt=""/>
+        <img  className="img" src="/img/images-des-services/istockphoto-1483052139-612x612.jpg" alt=""/>
     
     </div>
 
@@ -34,7 +34,7 @@ export default function Travail(){
         D’obtenir des aménagements raisonnables sur le lieu de travail</p>
 
 
-        <img  className="img" src="/img/images des hadicapes/phpm3vkHs_1.jpg" alt=""/>
+        <img  className="img" src="/img/images-des-services/istockphoto-1483052139-612x612.jpg" alt=""/>
     
     </div>
 
@@ -47,7 +47,7 @@ export default function Travail(){
        Encouragement de l’auto-emploi <br />
        Programmes de formation professionnelle adaptés</p>
 
-        <img className="img" src="/img/images des hadicapes/Tout-ce-quil-faut-savoir-sur-le-handicap-au-travail-1.webp" alt=""/>
+        <img className="img" src="/img/images-des-services/istockphoto-1483052139-612x612.jpg" alt=""/>
     
     </div>
 
@@ -61,7 +61,7 @@ export default function Travail(){
        La participation active au développement économique</p>
 
 
-        <img  className="img" src="/img/images des hadicapes/Insertion-Professionnelle-Handicapes-avec-RQTH.jpg" alt=""/>
+        <img  className="img" src="/img/images-des-services/istockphoto-1483052139-612x612.jpg" alt=""/>
     
     </div>
        

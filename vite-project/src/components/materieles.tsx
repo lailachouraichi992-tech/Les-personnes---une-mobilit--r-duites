@@ -32,7 +32,7 @@ export default function Materieles() {
     <div id="squiere-A">
 
 
-     <img id="img-sqr-1"src="vite-project\public\img\materiels-pour-les-hadicapes\71yxNquXG8L._AC_SL400_.jpg" alt="home image1" />
+     <img id="img-sqr-1"src="/img/materiels-pour-les-hadicapes/71yxNquXG8L._AC_SL400_.jpg" alt="home image1" />
 
         
   <Link className="lien" to="/Fauteuilroulantelectrique" > Fauteuilroulantelectrique </Link>
@@ -43,7 +43,7 @@ export default function Materieles() {
 
 
             <div id="squiere-B">
- <img  id= "img-sqr-2" src="vite-project\public\img\materiels-pour-les-hadicapes\71-5P8iq9FL._AC_SL1500_.jpg" alt="home image1" />
+ <img  id= "img-sqr-2" src="/img/materiels-pour-les-hadicapes/sunrise-medical-fauteuil-roulant-pliant-unix-2-sb742.jpg" alt="home image1" />
 
  
 
@@ -56,7 +56,7 @@ export default function Materieles() {
             <div className="squiere-C">
 
 
-<img id="img-sqr-3" src="vite-project\public\img\materiels-pour-les-hadicapes\rambarde-exterieur.webp" alt="home image1" />
+<img id="img-sqr-3" src="/img/materiels-pour-les-hadicapes/rambarde-exterieur.webp" alt="home image1" />
 
 
       <Link className="lien" to="/Cannedemarche" > Canne-de-marche  </Link>
@@ -75,7 +75,7 @@ export default function Materieles() {
             <div  id="squiere-D">
 
 
-    <img id="img-sqr-4" src="vite-project\public\img\materiels-pour-les-hadicapes\Leve-personne-SUNLITT-MAJOR-175.jpg" alt="home image1" />
+    <img id="img-sqr-4" src="/img/materiels-pour-les-hadicapes/Leve-personne-SUNLITT-MAJOR-175.jpg" alt="home image1" />
 
         
 
